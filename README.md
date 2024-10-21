@@ -2,7 +2,7 @@
 # User Comment Summarization and Analysis for Digikala Products
 This project focuses on summarizing and analyzing user comments related to products on Digikala, one of the largest e-commerce platforms. The goal is to automatically extract key insights from user reviews and provide a summarized view that can help businesses and potential customers make better decisions.
 
-Key Features:
+#Key Features:
 Data Collection:
 
 The system collects user comments and reviews from Digikala’s product pages.
