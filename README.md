@@ -1,5 +1,5 @@
 # LLM-based-Comment-Summarization
-User Comment Summarization and Analysis for Digikala Products
+# User Comment Summarization and Analysis for Digikala Products
 This project focuses on summarizing and analyzing user comments related to products on Digikala, one of the largest e-commerce platforms. The goal is to automatically extract key insights from user reviews and provide a summarized view that can help businesses and potential customers make better decisions.
 
 Key Features:
